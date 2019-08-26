@@ -1,0 +1,20 @@
+export const IMAGES_LOAD = 'IMAGES_LOAD';
+
+export const FAVORITE_ADD = 'FAVORITE_ADD';
+export const FAVORITE_REMOVE = 'FAVORITE_REMOVE';
+
+export const IMAGE_DOWNLOAD = 'IMAGE_DOWNLOAD';
+export const IMAGE_SAVE = 'IMAGE_SAVE';
+export const WALLPAPER_SETUP = 'WALLPAPER_SETUP';
+
+export const LIKES_GET = 'LIKES_GET';
+export const IMAGE_LIKE = 'IMAGE_LIKE';
+export const IMAGE_DISLIKE = 'IMAGE_DISLIKE';
+
+export const TOAST_ADD = 'TOAST_ADD';
+export const TOAST_DELETE = 'TOAST_DELETE';
+
+export const RATE_SCREEN_REMOVE = 'RATE_SCREEN_REMOVE';
+export const RATE_SCREEN_TEMPORARY_HIDE = 'RATE_SCREEN_TEMPORARY_HIDE';
+
+export const ACCESS_STORAGE = 'ACCESS_STORAGE';
